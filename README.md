@@ -38,7 +38,7 @@ import (
     "log"
     "os"
 
-    "github.com/joho/godotenv"
+    "github.com/lpernett/godotenv"
 )
 
 func main() {
